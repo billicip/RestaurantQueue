@@ -42,11 +42,7 @@ def assign_vip_flags(arrivals, vip_prob=0.05, seed=None):
         group["is_vip"] = (rng.random() < vip_prob)
     return arrivals
 
-
-------
-
 _event_counter = 0  # module-level counter for tie-breaking
-
 
 def make_event(time, event_type, data):
     """Create an event tuple that can be pushed onto the heapq."""
