@@ -1,0 +1,135 @@
+{
+  "description": "Stage 4 Data-Driven 70-seat layout \u2014 group_size discipline.",
+  "tables": [
+    {
+      "table_id": "T1",
+      "capacity": 2
+    },
+    {
+      "table_id": "T2",
+      "capacity": 2
+    },
+    {
+      "table_id": "T3",
+      "capacity": 2
+    },
+    {
+      "table_id": "T4",
+      "capacity": 2
+    },
+    {
+      "table_id": "T5",
+      "capacity": 2
+    },
+    {
+      "table_id": "T6",
+      "capacity": 2
+    },
+    {
+      "table_id": "T7",
+      "capacity": 2
+    },
+    {
+      "table_id": "T8",
+      "capacity": 2
+    },
+    {
+      "table_id": "T9",
+      "capacity": 2
+    },
+    {
+      "table_id": "T10",
+      "capacity": 2
+    },
+    {
+      "table_id": "T11",
+      "capacity": 2
+    },
+    {
+      "table_id": "T12",
+      "capacity": 2
+    },
+    {
+      "table_id": "T13",
+      "capacity": 2
+    },
+    {
+      "table_id": "T14",
+      "capacity": 2
+    },
+    {
+      "table_id": "T15",
+      "capacity": 2
+    },
+    {
+      "table_id": "T16",
+      "capacity": 2
+    },
+    {
+      "table_id": "T17",
+      "capacity": 2
+    },
+    {
+      "table_id": "T18",
+      "capacity": 2
+    },
+    {
+      "table_id": "T19",
+      "capacity": 2
+    },
+    {
+      "table_id": "T20",
+      "capacity": 2
+    },
+    {
+      "table_id": "T21",
+      "capacity": 2
+    },
+    {
+      "table_id": "T22",
+      "capacity": 2
+    },
+    {
+      "table_id": "T23",
+      "capacity": 4
+    },
+    {
+      "table_id": "T24",
+      "capacity": 4
+    },
+    {
+      "table_id": "T25",
+      "capacity": 4
+    },
+    {
+      "table_id": "T26",
+      "capacity": 4
+    },
+    {
+      "table_id": "T27",
+      "capacity": 4
+    },
+    {
+      "table_id": "T28",
+      "capacity": 6
+    }
+  ],
+  "queues": [
+    {
+      "queue_id": "Q1",
+      "min_size": 1,
+      "max_size": 2
+    },
+    {
+      "queue_id": "Q2",
+      "min_size": 3,
+      "max_size": 4
+    },
+    {
+      "queue_id": "Q3",
+      "min_size": 5,
+      "max_size": 6
+    }
+  ],
+  "discipline": "group_size"
+}
